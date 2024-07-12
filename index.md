@@ -13,3 +13,7 @@ const operation = "sum"
 
 const result = number + limit + " " + operation
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
